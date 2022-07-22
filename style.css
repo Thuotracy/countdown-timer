@@ -75,3 +75,14 @@ html{
 #sec{
     grid-area: 2 / 4 / 2 / 5;
 }
+
+/* button */
+.btn{
+    align-self: center;
+
+    width: 100px;
+    height: 40px;
+
+    font-size: 30px;
+    justify-self: center;
+}
