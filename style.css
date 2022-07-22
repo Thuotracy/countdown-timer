@@ -2,3 +2,15 @@ html{
     background-color: brown;
     height: 100%;
 }
+
+#container{
+    height: 200px;
+    width: 700px;
+    background-color: white;
+    margin: 0 auto;
+    border: 5px solid black;
+
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+}
