@@ -12,9 +12,9 @@ h1 {
 #container {
     height: 200px;
     width: 700px;
-    background-color: #F5E4C3;
+    background-color: #f9aa0c;
     margin: 0 auto;
-    border: 5px solid #88B169;
+    border: 5px solid black;
 
     display: grid;
     grid-template-columns: repeat(5, 1fr);
@@ -91,6 +91,7 @@ h1 {
 
     font-size: 30px;
     justify-self: center;
+    border: 2px solid black;
 }
 
 #start {
