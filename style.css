@@ -90,3 +90,7 @@ html{
 #start{
     grid-area: 3 / 2 / 3 / 4;
 }
+
+#reset{
+    grid-area: 3 / 3 / 3 /5;
+}
