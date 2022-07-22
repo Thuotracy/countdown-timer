@@ -59,3 +59,11 @@ html{
     font-size: 30px;
     margin: 0;
 }
+
+#p1{
+    grid-area: 2 / 2 / 2 / 4;
+}
+
+#minute{
+    grid-area: 2 / 3 / 2 / 4;
+}
