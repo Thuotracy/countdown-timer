@@ -67,3 +67,11 @@ html{
 #minute{
     grid-area: 2 / 3 / 2 / 4;
 }
+
+#p2{
+    grid-area: 2 / 3 / 2 / 5;
+}
+
+#sec{
+    grid-area: 2 / 4 / 2 / 5;
+}
