@@ -12,9 +12,9 @@ h1 {
 #container {
     height: 200px;
     width: 700px;
-    background-color: #f2a711;
+    background-color: #f5e4c3;
     margin: 0 auto;
-    border: 5px solid BLACK;
+    border: 5px solid #88B169;
 
     display: grid;
     grid-template-columns: repeat(5, 1fr);
