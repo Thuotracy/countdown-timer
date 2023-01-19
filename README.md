@@ -6,7 +6,6 @@ A countdown timer clock
 ## Live link
 https://thuotracy.github.io/countdown-timer/
 
-
 ## Technologies Used
 * HTML
 * CSS
