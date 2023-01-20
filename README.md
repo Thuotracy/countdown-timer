@@ -1,6 +1,5 @@
 # COUNTDOWN TIMER
 
-
 ## Description
 A countdown timer clock
 
